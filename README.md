@@ -21,9 +21,9 @@ To discover open ports on devices within the local network using **Nmap**, and o
 
 ### 🔧 Command Used:
 
-ifconfig 192.168.83.131
+- ifconfig 192.168.83.131
 
-nmap --script=vulners.nse -sV -p 21,22,23 -oN vulnerbaility_machine_ftp.txt 192.168.83.131
+- nmap --script=vulners.nse -sV -p 21,22,23 -oN vulnerbaility_machine_ftp.txt 192.168.83.131
 
 ---
 
