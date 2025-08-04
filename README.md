@@ -28,7 +28,7 @@ To discover open ports on devices within the local network using **Nmap**, and o
 ---
 
 ### 🔐 Key Findings
-1 devices responded within the scanned subnet.
+5 devices responded within the scanned subnet.
 
 Device 192.168.3783.131 had several open ports, including:
 
