@@ -61,3 +61,20 @@ Device 192.168.3783.131 had several open ports, including:
 
 
 ---
+### ✅ Conclusion
+During this task, I performed a detailed network scan using Nmap to identify live hosts and open ports within my local subnet.
+
+I then extended the scan to a more vulnerable machine and identified multiple open ports such as FTP (21), SSH (22), Telnet (23). These services, if misconfigured or unpatched, can expose systems to critical vulnerabilities like unauthorized access, remote code execution, or data leaks.
+
+This task helped reinforce my understanding of:
+
+Port scanning techniques (-sS, -p, -sV)
+
+Common network services and their risks
+
+The importance of secure configuration and minimal surface exposure
+
+Overall, this was a foundational exercise in network reconnaissance and vulnerability identification, setting the stage for deeper security testing and hardening practices.
+
+---
+
